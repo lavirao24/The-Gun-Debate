@@ -1,0 +1,51 @@
+"","State","Firearm.Registration.Required","Permit.Required.to.Carry.","Permit.Required.to.Purchase.","Open.Carry.Legal.","Strictness","n"
+"1","Washington","Yes","Yes","No","Yes",0.65,3434
+"2","New York","Yes","Yes","Yes","No",0.9,9712
+"3","New Jersey","Yes","Yes","Yes","No",0.9,5387
+"4","Michigan","Yes","Yes","No","Yes",0.65,6136
+"5","Maryland","Yes","Yes","Yes","Yes",1,5798
+"6","Hawaii","Yes","Yes","Yes","Yes",1,289
+"7","Connecticut","Yes","Yes","Yes","Yes",1,3067
+"8","California","Yes","Yes","Yes","Yes",1,16306
+"9","Wyoming","No","No","No","Yes",0.1,494
+"10","Wisconsin","No","Yes","No","Yes",0.45,4787
+"11","West Virginia","No","No","No","Yes",0.1,1575
+"12","Virginia","No","Yes","No","Yes",0.45,5949
+"13","Vermont","No","No","No","Yes",0.1,472
+"14","Utah","No","Yes","No","Yes",0.45,1072
+"15","Texas","No","Yes","No","Yes",0.45,13577
+"16","Tennessee","No","Yes","No","Yes",0.45,7626
+"17","South Dakota","No","Yes","No","Yes",0.45,544
+"18","South Carolina","No","Yes","No","No",0.35,6939
+"19","Rhode Island","No","Yes","Yes","Yes",0.8,895
+"20","Pennsylvania","No","Yes","No","Yes",0.45,8929
+"21","Oregon","No","Yes","No","Yes",0.45,2286
+"22","Oklahoma","No","Yes","No","Yes",0.45,3455
+"23","Ohio","No","Yes","No","Yes",0.45,10244
+"24","North Dakota","No","Yes","Yes","Yes",0.8,573
+"25","North Carolina","No","Yes","Yes","Yes",0.8,8739
+"26","New Mexico","No","Yes","No","Yes",0.45,1645
+"27","New Hampshire","No","No","No","Yes",0.1,964
+"28","Nevada","No","Yes","No","Yes",0.45,1953
+"29","Nebraska","No","Yes","Yes","Yes",0.8,1651
+"30","Montana","No","No","No","Yes",0.1,638
+"31","Missouri","No","No","No","Yes",0.1,6631
+"32","Mississippi","No","No","No","Yes",0.1,3599
+"33","Minnesota","No","Yes","Yes","Yes",0.8,2408
+"34","Massachusetts","No","Yes","Yes","Yes",0.8,5981
+"35","Maine","No","No","No","Yes",0.1,907
+"36","Louisiana","No","Yes","No","Yes",0.45,8103
+"37","Kentucky","No","Yes","No","Yes",0.45,4157
+"38","Kansas","No","No","No","Yes",0.1,2145
+"39","Iowa","No","Yes","Yes","Yes",0.8,2517
+"40","Indiana","No","Yes","No","Yes",0.45,5852
+"41","Illinois","No","Yes","Yes","No",0.7,17556
+"42","Idaho","No","No","No","Yes",0.1,661
+"43","Georgia","No","Yes","No","Yes",0.45,8925
+"44","Florida","No","Yes","No","No",0.35,15029
+"45","Delaware","No","Yes","No","Yes",0.45,1685
+"46","Colorado","No","Yes","No","Yes",0.45,3201
+"47","Arkansas","No","No","No","Yes",0.1,2842
+"48","Arizona","No","No","No","Yes",0.1,2328
+"49","Alaska","No","No","No","Yes",0.1,1349
+"50","Alabama","No","Yes","No","Yes",0.45,5471
